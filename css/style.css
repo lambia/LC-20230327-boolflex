@@ -1,0 +1,7 @@
+body.debug .container {
+    background-color: aquamarine;
+}
+
+body.debug [class*='col-'] {
+    border: solid 1px red;
+}
